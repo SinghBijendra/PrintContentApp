@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Print Content</string>
+    <string name="photo">Photo</string>
+    <string name="html_doc">HTML Doc</string>
+    <string name="title_activity_photo">Print Photo</string>
+    <string name="title_activity_html">Print Html Doc</string>
+    <string name="title_activity_screen_print">Screen Print</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="activity_screen">Activity Screen</string>
+</resources>
